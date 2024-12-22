@@ -7,7 +7,7 @@ A mobile application designed for controlling a soccer-playing robot car using I
 ## **Demo**
 
 ### **Splash Screen**
-- The app begins with a **Splash Screen** that automatically transitions to the **Login Page** after a brief timer.  
+- The app begins with a **Splash Screen** that automatically transitions to the **Control Page** after a brief timer.  
 
 <img src="https://github.com/user-attachments/assets/e075a14d-ab39-4fcc-8261-bdd751c83c4b" alt="Splash Screen" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 
