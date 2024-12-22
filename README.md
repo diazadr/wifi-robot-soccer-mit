@@ -39,7 +39,7 @@ It was designed and implemented by **2AEC4 A**.
 
 ## **How to Use**
 1. Connect to the WiFi network provided by the ESP8266 module.
-2. Launch the app and log in.
+2. Launch the app.
 3. Use the control options (e.g., slider or voice commands) to manage the robot.
 
 ---
