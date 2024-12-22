@@ -9,7 +9,7 @@ A mobile application designed for controlling a soccer-playing robot car using I
 ### **Splash Screen**
 - The app begins with a **Splash Screen** that automatically transitions to the **Control Page** after a brief timer.  
 
-<img src="https://github.com/user-attachments/assets/e075a14d-ab39-4fcc-8261-bdd751c83c4b" alt="Splash Screen" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+<img src="https://github.com/user-attachments/assets/e075a14d-ab39-4fcc-8261-bdd751c83c4b" alt="Splash Screen" style="width: 400px; height: auto; display: block; margin: 0 auto;">
 
 ---
 
@@ -17,7 +17,7 @@ A mobile application designed for controlling a soccer-playing robot car using I
 - After logging in, users are navigated to the **Control Screen**, which provides the following functionalities:
   - A **slider** to adjust settings or control movements.  
 
-<img src="https://github.com/user-attachments/assets/0dfe6d6c-dfc4-42f2-a0cb-249e369b9a31" alt="Control Screen" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+<img src="https://github.com/user-attachments/assets/0dfe6d6c-dfc4-42f2-a0cb-249e369b9a31" alt="Control Screen" style="width: 400px; height: auto; display: block; margin: 0 auto;">
 
 ---
 
@@ -25,9 +25,9 @@ A mobile application designed for controlling a soccer-playing robot car using I
 This application was developed to fulfill the final project requirements for the **Microcontroller Practical Course**.  
 It was designed and implemented by **2AEC4 A**.
 
-<img src="https://github.com/user-attachments/assets/086fc023-2b3f-497b-8b5f-dd7f513f6d6f" alt="About Image 1" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-<img src="https://github.com/user-attachments/assets/c5c5f6f9-9a8f-405c-a3ff-b196dc0d1b50" alt="About Image 2" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-<img src="https://github.com/user-attachments/assets/1fb29a16-736a-4db1-bb24-f7533baf0c47" alt="About Image 3" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+<img src="https://github.com/user-attachments/assets/086fc023-2b3f-497b-8b5f-dd7f513f6d6f" alt="About Image 1" style="width: 400px; height: auto; display: block; margin: 0 auto;">
+<img src="https://github.com/user-attachments/assets/c5c5f6f9-9a8f-405c-a3ff-b196dc0d1b50" alt="About Image 2" style="width: 400px; height: auto; display: block; margin: 0 auto;">
+<img src="https://github.com/user-attachments/assets/1fb29a16-736a-4db1-bb24-f7533baf0c47" alt="About Image 3" style="width: 400px; height: auto; display: block; margin: 0 auto;">
 
 ---
 
