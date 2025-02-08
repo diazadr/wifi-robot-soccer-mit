@@ -54,8 +54,3 @@ Feel free to submit issues or contribute by creating pull requests.
 
 ## **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Thank you for using the **WiFi Robot Soccer Application**!  
-Happy controlling! 🎮🤖
