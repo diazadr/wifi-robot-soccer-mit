@@ -1,7 +1,6 @@
 # WiFi Robot Soccer Application
 
-![Project Status](https://img.shields.io/badge/status-completed-brightgreen)  
-[![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
+![Project Status](https://img.shields.io/badge/status-completed-brightgreen)  [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 
 This project is a mobile application designed for controlling a soccer-playing robot car using IoT technology.  
 It was developed as part of the **Microcontroller Practical Course** final project.
