@@ -49,7 +49,10 @@ It was designed and implemented by **2AEC4 A**.
 This project is **completed** and will not be further developed.
 
 ## Acknowledgements
+
 This project was inspired by tutorials from the [How to Make a Line Follower and Android Application Control Robot | Arduino and MIT App Inventor](https://www.youtube.com/watch?v=ItvJbyYNP8s) video.
+
+Special thanks to **Kelompok Absen Atas** for their contributions in the **design and wiring** of the robot hardware.
 
 ## **Contributions**
 Feel free to submit issues or contribute by creating pull requests.
